@@ -1,6 +1,11 @@
 # Free energy Calculations for Chemical and Biological Systems(A Workshop)
 
 
+
+![Workshop Participants](https://photos.google.com/share/AF1QipO1mvbBSyV_jFhgwfcvBfGRBqRo9rZLLJHc7o8PhSLkcri3bXAsiFLb6UrnTNBFjg/photo/AF1QipPF8WDfK9VXINQ6KobfYnC0d7CqytOqf9rdSQjZ?key=N2lnaVIyX1RWMDVqSkpvMHlvSmctMjkyTnZCNGln)
+
+
+
     The department of Chemsitry & High Performance Computing group of IIT Kanpur are jointly 
     organized a workshop on free energy calculations for chemical and biological systems.
     
