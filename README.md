@@ -1,4 +1,4 @@
-###A workshop on Free energy Calculations for Chemical and Biological Systems
+## A workshop on Free energy Calculations for Chemical and Biological Systems
                          ``March 17-22,2019`` 
 
 
