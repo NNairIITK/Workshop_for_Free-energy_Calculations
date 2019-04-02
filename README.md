@@ -6,7 +6,7 @@
 
 
 
-    The department of Chemsitry & High Performance Computing group of IIT Kanpur are jointly 
+    The department of Chemsitry & High Performance Computing group of [IIT Kanpur](http://www.iitk.ac.in/) are jointly 
     organized a workshop on free energy calculations for chemical and biological systems.
     
     
