@@ -26,7 +26,7 @@ The lectures presented at workshop are can be found here: [Resources](https://si
  
  * **Tutorials:**
  
- The tutorials used for the hands-on sessions are can be found at: [Tutorials]()
+ The tutorials used for the hands-on sessions are can be found at: [Tutorials](https://sites.google.com/view/the-nnn-group/tutorials)
  
  
  
