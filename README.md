@@ -18,7 +18,7 @@ number of molecular simulation programs like GROMACS, AMBER, CP2K, Gaussian, VAS
 ```   
 
 
-[**Workshop**](https://sites.google.com/view/freeenergy-chembio/home){:target="_blank" rel="noopener"}.`                      `[**Resources**](https://sites.google.com/view/freeenergy-chembio/resources)`                       `[**Photos**](https://photos.google.com/share/AF1QipO1mvbBSyV_jFhgwfcvBfGRBqRo9rZLLJHc7o8PhSLkcri3bXAsiFLb6UrnTNBFjg?key=N2lnaVIyX1RWMDVqSkpvMHlvSmctMjkyTnZCNGln)`                     `[**Tutorials**](https://sites.google.com/view/the-nnn-group/tutorials)
+[**Workshop**](https://sites.google.com/view/freeenergy-chembio/home)`                      `[**Resources**](https://sites.google.com/view/freeenergy-chembio/resources)`                       `[**Photos**](https://photos.google.com/share/AF1QipO1mvbBSyV_jFhgwfcvBfGRBqRo9rZLLJHc7o8PhSLkcri3bXAsiFLb6UrnTNBFjg?key=N2lnaVIyX1RWMDVqSkpvMHlvSmctMjkyTnZCNGln)`                     `[**Tutorials**](https://sites.google.com/view/the-nnn-group/tutorials)
  
  
  
