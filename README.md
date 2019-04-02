@@ -16,21 +16,10 @@ lectures. Hands-on sessions will be given using PLUMED and PIMD programs which a
 number of molecular simulation programs like GROMACS, AMBER, CP2K, Gaussian, VASP etc.
     
 ```   
-* Website for Workshop:
-[Click me for Workshop](https://sites.google.com/view/freeenergy-chembio/home)
 
 
-* **REsources**:
-
-The lectures presented at workshop are can be found here: [Resources](https://sites.google.com/view/freeenergy-chembio/resources)
-
-* **Photos**:
-
- The photos of workshop can be found here: [Photos](https://photos.google.com/share/AF1QipO1mvbBSyV_jFhgwfcvBfGRBqRo9rZLLJHc7o8PhSLkcri3bXAsiFLb6UrnTNBFjg?key=N2lnaVIyX1RWMDVqSkpvMHlvSmctMjkyTnZCNGln)
- 
- * **Tutorials:**
- 
- The tutorials used for the hands-on sessions are can be found at: [Tutorials](https://sites.google.com/view/the-nnn-group/tutorials)
+[**Workshop**](https://sites.google.com/view/freeenergy-chembio/home)  [**Resources**](https://sites.google.com/view/freeenergy-chembio/resources)  [**Photos**](https://photos.google.com/share/AF1QipO1mvbBSyV_jFhgwfcvBfGRBqRo9rZLLJHc7o8PhSLkcri3bXAsiFLb6UrnTNBFjg?key=N2lnaVIyX1RWMDVqSkpvMHlvSmctMjkyTnZCNGln)
+  [**Tutorials**](https://sites.google.com/view/the-nnn-group/tutorials)
  
  
  
