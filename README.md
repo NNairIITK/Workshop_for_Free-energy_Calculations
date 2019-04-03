@@ -15,7 +15,7 @@ number of molecular simulation programs like GROMACS, AMBER, CP2K, Gaussian, VAS
   
   
  
-The information regarding workshop and lecture notes, tutorials used and the photos of workshop are 
+The information regarding workshop, lecture notes, tutorials used and the photos of workshop are 
 available at following links: 
 ```   
 
